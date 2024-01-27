@@ -7,4 +7,4 @@ And insights from: https://raspi.tv/2013/rpi-gpio-basics-3-how-to-exit-gpio-prog
 
 ## Breadboard:
 
-![]("2leds_GPIO.jpg")
+<img src="https://github.com/clemgoub/RPi_GPIO_basics/blob/main/01_2LEDs_blinker/2leds_GPIO.jpg?raw=true" alt="2LEDs GPIO" Breadboard schematics style="height:600px;">
