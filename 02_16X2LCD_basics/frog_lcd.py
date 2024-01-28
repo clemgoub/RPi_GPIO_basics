@@ -6,7 +6,7 @@ lcd = CharLCD(i2c_expander='PCF8574', address=0x27, port=1, cols=16, rows=2, dot
 lcd.clear()
 
 # define sleep time for tuning
-st = 0.2
+st = 0.1
 # Animation
 for i in range(20):
 	# frame 1
