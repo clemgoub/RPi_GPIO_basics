@@ -6,7 +6,8 @@ This projects follows https://medium.com/@thedyslexiccoder/how-to-set-up-a-raspb
 
 - Rpi 4
 - 16X2 LCD screen
-- jumper cables
+- 6x jumper cables
+- 10k pot (backlight)
 
 ## Notes
 
@@ -69,5 +70,5 @@ For the rest, everything will be in the scripts of this repo
 ### Breadboard
 
 With 10K pot for backlight intensity
-
+![](https://github.com/clemgoub/RPi_GPIO_basics/blob/main/02_16X2LCD_basics/lcd_breadboard.jpg?raw=true)
 
