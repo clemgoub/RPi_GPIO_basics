@@ -64,6 +64,10 @@ Then `sudo pip3 install RPLCD smbus2` worked.
 
 ### Code
 
-For the rest, everything will be in the script `lcd_display.py`
+For the rest, everything will be in the scripts of this repo
+
+### Breadboard
+
+With 10K pot for backlight intensity
 
 
